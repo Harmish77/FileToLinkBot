@@ -1,13 +1,13 @@
 {
     "name": "Telegram Files Store Bot",
-    "description": "A Telegram Files Store Bot in Pyrogram by @Damantha_Jasinghe",
+    "description": "A Telegram Files Store Bot in Pyrogram by @Harmishhk ",
     "keywords": [
         "telegram",
         "files",
         "store",
         "bot"
     ],
-    "repository": "https://github.com/Damantha126/FileToLinkBot/",
+    "repository": "https://github.com/Harmish77/FileToLinkBot/",
     "website": "https://damantha.ga",
     "success_url": "https://t.me/ankivectorUpdates",
     "env": {
