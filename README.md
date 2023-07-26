@@ -1,5 +1,5 @@
 # PyroFilesStoreBot
-This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.com/AbirHasan2005/PyroFilesStoreBot).
+This is Telegram Parmanent Files Store Bot by [@Harmish77](https://github.com/Harmish77/PyroFilesStoreBot).
 
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
@@ -71,4 +71,4 @@ This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.co
 
 # Special Credits ❤
 
-## ✪ [Abir Hasan](https://github.com/AbirHasan2005/PyroFilesStoreBot) - Owner Of This Repo
+## ✪ [Abir Hasan](https://github.com/Harmish77/PyroFilesStoreBot) - Owner Of This Repo
